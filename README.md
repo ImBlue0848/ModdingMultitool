@@ -21,4 +21,4 @@ NOTE: THIS IS FOR LEARNING PURPOSES ONLY AND NOT MEANT FOR MALICIOUS INTENT!!!
 - Make an auto modder (maybe?)
   - global-metadata.dat auto string modder
   - libil2cpp.so byte modder
-- Make an API for things like the Code Chunks or Modding Tools (i may just use github and make a raw request to json data for this, though.)
+- Make an API for things like the Code Chunks or Modding Tools (i may just use github and make a raw request to github for this, though.)
