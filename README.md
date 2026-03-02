@@ -2,6 +2,7 @@
 This is a multitool for everything you may need for basic game modding and is currently still in development. 
 This tool is Open-Source and made by Blue (@imblue0848._ on discord)
 
+NOTE: THIS IS FOR LEARNING PURPOSES ONLY AND NOT MEANT FOR MALICIOUS INTENT!!!
 ---
 # Current Features:
 - C++ Code Snippets
